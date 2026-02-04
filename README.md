@@ -1,8 +1,9 @@
 # 📊 Getting Started — React Pivot Table Component (Syncfusion EJ2)
 
 [![License](https://img.shields.io/badge/license-SEE%20LICENSE%20IN%20license-blue.svg)](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf)
-[![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://react.dev/)
-[![Syncfusion Version](https://img.shields.io/badge/Syncfusion%20EJ2-26.1.39-green.svg)](https://www.syncfusion.com/react-components/)
+[![React](https://img.shields.io/badge/React-19.2.4-blue.svg)](https://react.dev/)
+[![Last Updated](https://img.shields.io/github/last-commit/SyncfusionExamples/getting-started-with-the-react-pivot-table-component.svg)](https://github.com/SyncfusionExamples/getting-started-with-the-react-pivot-table-component/commits)
+[![Syncfusion Version](https://img.shields.io/badge/Syncfusion%20EJ2-32.1.19-green.svg)](https://www.syncfusion.com/react-components/)
 [![Node.js](https://img.shields.io/badge/Node.js-LTS-green.svg)](https://nodejs.org/)
 [![npm](https://img.shields.io/badge/npm-v10%2B-blue.svg)](https://www.npmjs.com/)
 
@@ -157,8 +158,8 @@ http://localhost:3000
 
 ```json
 {
-  "react": "^18.3.1",
-  "react-dom": "^18.3.1",
+  "react": "^19.2.4",
+  "react-dom": "^19.2.4",
   "react-scripts": "5.0.1"
 }
 ```
@@ -485,9 +486,3 @@ This project is licensed under the **Syncfusion Community License**. See the [Sy
 - ✅ Consider **server-side aggregation** for very large datasets
 
 ---
-
-**Last Updated:** February 2026  
-**Version:** 1.0.0  
-**Maintained By:** Syncfusion Examples Team  
-
-⭐ If you find this project helpful, please consider giving it a star on GitHub!
